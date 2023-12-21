@@ -1,0 +1,7 @@
+:root {
+    --bg-color-chat-container: #2e2e2e14;
+}
+
+.chat-container {
+    background-color: var(--bg-color-chat-container);
+}
